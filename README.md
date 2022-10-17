@@ -20,7 +20,9 @@ ___
 7. Кристофер Нолан 
 8. Стивен Содерберг
 
-**Вот небольшая инфографика**![](https://avatars.mds.yandex.net/get-images-cbir/7737039/dgrjYMa30tATfFhAKhfgLg4709/ocr)
+**Вот небольшая инфографика**
+![image](https://user-images.githubusercontent.com/47860117/196266076-1d720187-2bb5-41a7-b748-cc39cdc3d749.png)
+
 
 Из нее видно, что по большей части я смотрю комедии (в основном ~~черные~~)
 
